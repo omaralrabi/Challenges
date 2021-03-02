@@ -1,0 +1,10 @@
+#wrap{
+    background-color:lightblue;
+}
+
+p{
+    font-family: sans-serif;
+}
+ul{
+    justify-content: baseline;
+}
